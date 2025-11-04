@@ -1,1 +1,2 @@
-# rule
+# Rule
+My Clash Rule
